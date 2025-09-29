@@ -4,4 +4,7 @@
 # C.C 1007528893
 # Bioingeniería
 
-#https://www.youtube.com/channel/UC_4U9lKBOL1eDZOuVBEaXgw/community?pvf=CAI%253D
+# Eliana María Brand Agudelo
+# C.C 1000569835
+# Ingeniería de sistemas
+
