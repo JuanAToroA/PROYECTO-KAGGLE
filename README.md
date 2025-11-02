@@ -16,5 +16,5 @@
 # Ingeniería de sistemas
 
 # ---------------------------------
-# Link acceso a gragacion: 
+# Link acceso a grabacion: 
 # https://youtu.be/wg6kR-X39es
